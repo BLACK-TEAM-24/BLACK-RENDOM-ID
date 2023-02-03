@@ -11,9 +11,12 @@ pkg install python
 
 pkg install git
 
-pkg install request
+pip install bs4
 
-pkg install rich
+
+pip install request
+
+pip install rich
 
 rm -rf BLACK-RENDOM-ID
 
